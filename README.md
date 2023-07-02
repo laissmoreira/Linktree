@@ -14,7 +14,4 @@ Based on Rocketseat's new Discover project update.
 <br>
 <img src="assets/light-mode.png" alt="Linktree"/>
 
-##
-Com base na nova atualização do projeto Discover da Rocketseat.
-Based on Rocketseat's new Discover project update.
 
